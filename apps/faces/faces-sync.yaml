@@ -5,7 +5,7 @@ metadata:
   name: faces
 spec:
   interval: 10m
-  url: https://github.com/BuoyantIO/faces-demo
+  url: https://github.com/kflynn/faces-demo
   ref:
     branch: main
   ignore: |
